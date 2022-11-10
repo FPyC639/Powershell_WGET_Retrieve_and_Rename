@@ -9,3 +9,5 @@ wget was download for the 64xbit archetiture from this following website.
 After downloaded I inserted the file in the C:\Windows\System32 folder and restarted the PowerShell Session.
 
 Using wget to download a file from the web, and rename it to a desired name.
+
+![Powershell dry run](WGET_Test.png)
